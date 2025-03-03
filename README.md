@@ -89,3 +89,29 @@ Here are the 10 essential features of the Zillow Clone:
     <ul>
         <li>Users can leave reviews and ratings for properties and agents.</li>
     </ul>
+
+<h2>Technologies Used</h2>
+<ul>
+        <li><strong>Frontend:</strong> HTML, CSS, JavaScript (JS), React.js</li>
+        <li><strong>Backend:</strong> Node.js, Express.js, PHP (optional)</li>
+        <li><strong>Database:</strong> MySQL, SQL</li>
+        <li><strong>APIs:</strong> Google Maps API, RESTful APIs</li>
+        <li><strong>Mobile:</strong> Android (Java/Kotlin), iOS (Swift)</li>
+        <li><strong>Other Tools:</strong> JSON for data exchange, Git for version control</li>
+    </ul>
+<h2>Contributing</h2>
+    <p>Contributions are welcome! Follow these steps:</p>
+
+    <ol>
+        <li>Fork the repository.</li>
+        <li>Create a new branch:
+            <pre><code>git checkout -b feature/your-feature-name</code></pre>
+        </li>
+        <li>Commit your changes:
+            <pre><code>git commit -m "Add your feature"</code></pre>
+        </li>
+        <li>Push to the branch:
+            <pre><code>git push origin feature/your-feature-name</code></pre>
+        </li>
+        <li>Open a pull request.</li>
+    </ol>
