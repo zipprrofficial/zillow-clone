@@ -4,7 +4,7 @@ A real estate marketplace clone inspired by Zillow, designed to help users buy, 
 <h3><b>Understanding the Importance of Real Estate Marketplaces</b></h3>
 Real estate marketplaces like Zillow have revolutionized property transactions by providing a centralized platform for buyers, sellers, and renters. This project highlights the importance of such platforms in simplifying property searches, listings, and transactions.
 <h2><b>Getting Started</b></h2>
-Follow these steps to set up and run the project locally.
+Follow these steps to set up and run the <a href="https://zipprr.com/zillow-clone/">Zillow Clone</a> project locally.
 <h3>Prerequisites</b></h3>
 <ul>
   <li>Node.js and npm installed</li>
@@ -102,7 +102,7 @@ Here are the 10 essential features of the Zillow Clone:
 <h2>Contributing</h2>
     <p>Contributions are welcome! Follow these steps:</p>
 
-    <ol>
+<ol>
         <li>Fork the repository.</li>
         <li>Create a new branch:
             <pre><code>git checkout -b feature/your-feature-name</code></pre>
@@ -114,4 +114,25 @@ Here are the 10 essential features of the Zillow Clone:
             <pre><code>git push origin feature/your-feature-name</code></pre>
         </li>
         <li>Open a pull request.</li>
-    </ol>
+</ol>
+<h2><b>Product Demo Details</b></h2>
+
+URL: https://zillow.zipprr.com
+
+Admin Panel:
+Username: admin
+Password: admin
+
+Vendor Panel:
+Username: oscar_eade
+Password: 11111111
+
+Agent Panel (of a Vendor):
+Username: rendall
+Password: 11111111
+
+Customer Panel:
+Username: nenimok
+Password: 11111111
+
+![zillow clone screenshots](https://github.com/user-attachments/assets/daea096c-7a22-4673-8a26-f3cfba5615a0)
