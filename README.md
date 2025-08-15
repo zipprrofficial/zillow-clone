@@ -117,22 +117,6 @@ Here are the 10 essential features of the Zillow Clone:
 </ol>
 <h2><b>Product Demo Details</b></h2>
 
-URL: https://zillow.zipprr.com
-
-Admin Panel:
-Username: admin
-Password: admin
-
-Vendor Panel:
-Username: oscar_eade
-Password: 11111111
-
-Agent Panel (of a Vendor):
-Username: rendall
-Password: 11111111
-
-Customer Panel:
-Username: nenimok
-Password: 11111111
+Want to launch your own real estate platform? Try a free demo: https://zipprr.com/zillow-clone/#demo
 
 ![zillow clone screenshots](https://github.com/user-attachments/assets/daea096c-7a22-4673-8a26-f3cfba5615a0)
